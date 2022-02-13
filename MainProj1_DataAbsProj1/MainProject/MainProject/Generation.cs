@@ -8,7 +8,7 @@ namespace MainProject
 {
     public class Generation
     {
-        public Generation(bool v1, bool v2, bool v3, bool v4, bool v5, bool v6, bool v7)
+        public Generation(params bool[] input)
         {
             
         }
