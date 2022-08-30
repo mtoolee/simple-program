@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MainProject
 {
+    /// <summary>
+    /// dfasdfasdf
+    /// </summary>
     public class Generation
     {
         public Generation(params bool[] input)
